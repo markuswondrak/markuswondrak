@@ -13,6 +13,10 @@ Computer science, nine years in consulting, and a long stretch of Java before th
 
 ## Working on
 
+- **[spec-kit-workflow-cockpit](https://github.com/markuswondrak/spec-kit-workflow-cockpit)** —
+  a terminal cockpit for [Spec-Kit](https://github.com/github/spec-kit) workflows: let
+  agents execute, keep the decisions. Follow execution, review feature documents, and
+  choose what happens next without leaving the terminal.
 - **[spec-kit-extended-flow](https://github.com/markuswondrak/spec-kit-extended-flow)** —
   a complete agentic engineering pipeline: intent in, reviewed and documented
   software out. Built on [Spec-Kit](https://github.com/github/spec-kit), where
