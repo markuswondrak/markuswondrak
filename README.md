@@ -1,4 +1,4 @@
-# Markus Wondrak
+# Whoami
 
 Domain Architect at a major German bank. My current focus is **agentic coding** —
 how AI agents and deterministic workflows fit together, mostly around GitHub's
@@ -38,8 +38,8 @@ Computer science, nine years in consulting, and a long stretch of Java before th
 Rethinking how we build software in the era of AI →
 [markus.wondrax.cloud](https://markus.wondrax.cloud)
 
-- [Five Gaps in Agent Skills and What Belongs in the Context Layer](https://markus.wondrax.cloud/articles/agent-skills-gaps.html) (May 2026)
-- [The Agent is not the Pipeline: Spec-Kit Workflows and the Enforcement Layer](https://markus.wondrax.cloud/articles/deterministic-pipelines.html) (May 2026)
+- [Tests Pass, Structure Fails: Keeping Long-Lived Systems Maintainable in the Agent Era](https://markus.wondrax.cloud/articles/tests-pass-structure-fails.html) (Oct 2026)
+- [Managing Spec-Kit Extensions, Presets, Workflows, and Bundles as Packages](https://markus.wondrax.cloud/articles/spec-kit-organization.html) (Sep 2026)
 
 ## Stats
 
